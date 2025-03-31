@@ -8,7 +8,7 @@ I'm a Computer Science and Engineering student at Vellore Institute of Technolog
 - 🎓 **Education**: B.Tech in Computer Science and Engineering (VIT Chennai)
 - 💡 **Interests**: AI/ML, Deep Learning, NLP, Data Engineering, Cybersecurity
 - 🛠️ **Skills**: Python, R, Java, C, C++, SQL, AWS, Snowflake, TensorFlow, OpenCV, Power BI
-- 🌱 **Learning**: Reinforcement Learning, Federated Learning, Edge AI
+- 🌱 **Learning**: Reinforcement Learning, AI Agents, Data Analytics
 - 📫 **Reach Me**: [GitHub](https://github.com/Shakespeared101) | [LinkedIn](https://linkedin.com/in/shakthi-bala-757266202) | [Email](mailto:shakthi3203@gmail.com)
 
 ---
