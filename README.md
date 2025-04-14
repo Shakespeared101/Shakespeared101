@@ -15,6 +15,13 @@ I'm a Computer Science and Engineering student at Vellore Institute of Technolog
 
 ## 📌 Featured Projects
 
+### [multi-doc-rag-llama](https://github.com/Shakespeared101/multi-doc-rag-llama) 📰🔊  
+An open-source Retrieval-Augmented Generation (RAG) system that ingests and processes multi-format documents (PDFs, Word, PPTs, etc.) to answer user queries using context-aware responses powered by LLaMA 3 via Ollama. Retrieves and compiles only the most relevant information from all sources without losing context.
+
+**Tech Stack**: Python, LlamaIndex, Llama 3.1, Ollama, HuggingFace
+
+---
+
 ### [News Summarisation & TTS](https://github.com/Shakespeared101/news-summarise-tts) 📰🔊  
 A web-based application that extracts key details from news articles, performs sentiment analysis, and converts summaries to speech.
 
