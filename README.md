@@ -23,7 +23,7 @@ An open-source Retrieval-Augmented Generation (RAG) system that ingests and proc
 ---
 
 ### [Company Lens](https://github.com/Shakespeared101/company-lens) 📰🔊  
-A web-based application that extracts key details from news articles, performs sentiment analysis, and converts summaries to speech.
+A web-based application that extracts public sentiment from news articles about a company, performs sentiment analysis, and converts summaries to speech.
 
 **Tech Stack**: Python, NLP, BeautifulSoup, Streamlit, Hugging Face, TTS
 
