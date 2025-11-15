@@ -50,8 +50,8 @@ A deep learning-based system for automatic transcript generation by mapping lip 
 
 ---
 
-### [Project-R](https://github.com/Shakespeared101/Project-R) 🔎🛍️  
-A browser extension that detects and highlights dark patterns in e-commerce sites, ensuring consumer transparency.
+### [Fair Lens](https://github.com/Shakespeared101/Project-R) 🔎🛍️  
+A cross-browser extension designed to protect users from dark patterns and help them understand privacy policies. It provides three powerful features to enhance your online privacy and awareness.
 
 **Tech Stack**: JavaScript, Chrome Extensions API, Python, Flask, Transformers
 
