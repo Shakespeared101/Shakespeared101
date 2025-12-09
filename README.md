@@ -50,7 +50,7 @@ A deep learning-based system for automatic transcript generation by mapping lip 
 
 ---
 
-### [Fair Lens](https://github.com/Shakespeared101/Project-R) 🔎🛍️  
+### [Fair Lens](https://github.com/Shakespeared101/FairLens) 🔎🛍️  
 A cross-browser extension designed to protect users from dark patterns and help them understand privacy policies. It provides three powerful features to enhance your online privacy and awareness.
 
 **Tech Stack**: JavaScript, Chrome Extensions API, Python, Flask, Transformers
