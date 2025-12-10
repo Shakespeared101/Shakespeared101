@@ -15,16 +15,16 @@ I'm a Computer Science and Engineering student at Vellore Institute of Technolog
 
 ## 📌 Featured Projects
 
-### [multi-doc-rag-llama](https://github.com/Shakespeared101/multi-doc-rag-llama)
-An open-source Retrieval-Augmented Generation (RAG) system that ingests and processes multi-format documents to answer user queries using context-aware responses.
-
-**Tech Stack**: Python, LlamaIndex, Llama 3.1, Streamlit, Ollama, Hugging Face
-
----
 ### [MarketMoves](https://github.com/Shakespeared101/MarketMoves) 
 A comprehensive data visualization and risk intelligence platform that combines financial data analysis, machine learning, and interactive visualizations to provide insights into market risks, anomalies, and corporate intelligence.
 
 **Tech Stack**: FastAPI, React, SQLite+DuckDB, Neo4j, Ollama
+
+---
+### [multi-doc-rag-llama](https://github.com/Shakespeared101/multi-doc-rag-llama)
+An open-source Retrieval-Augmented Generation (RAG) system that ingests and processes multi-format documents to answer user queries using context-aware responses.
+
+**Tech Stack**: Python, LlamaIndex, Llama 3.1, Streamlit, Ollama, Hugging Face
 
 ---
 ### [Fair Lens](https://github.com/Shakespeared101/FairLens)
