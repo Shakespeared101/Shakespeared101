@@ -28,9 +28,9 @@ A comprehensive data visualization and risk intelligence platform that combines 
 
 ---
 ### [Fair Lens](https://github.com/Shakespeared101/FairLens)
-A cross-browser extension designed to protect users from dark patterns and help them understand privacy policies. It provides three powerful features to enhance your online privacy and awareness.
+A cross-browser extension designed to protect users from dark patterns and help them understand privacy policies. Identifies and highlights deceptive UI elements, Analyzes policies against regulations (GDPR, CCPA, PIPEDA, LGPD), Provides AI-powered summaries of company privacy policies using Groq.
 
-**Tech Stack**: JavaScript, Chrome Extensions API, Python, Flask, Transformers
+**Tech Stack**: Vanilla JavaScript, HTML5, CSS3, Groq API, JSON
 
 ---
 ### [AirQ-Forecast-LNN](https://github.com/Shakespeared101/AirQ-Forecast-LNN) 🌍🔬  
