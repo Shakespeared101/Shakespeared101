@@ -27,6 +27,12 @@ An open-source Retrieval-Augmented Generation (RAG) system that ingests and proc
 **Tech Stack**: Python, LlamaIndex, Llama 3.1, Streamlit, Ollama, Hugging Face
 
 ---
+### [CityPulse](https://github.com/Shakespeared101/CityPulse) 
+An interactive multi-layer dashboard for visualizing and exploring urban data from major US cities. CityPulse transforms open city datasets into compelling data stories through maps, charts, and real-time analytics.
+
+**Tech Stack**: Node.js + Express, React, Vite, Tailwind CSS, Axios
+
+---
 ### [Fair Lens](https://github.com/Shakespeared101/FairLens)
 A cross-browser extension designed to protect users from dark patterns and help them understand privacy policies. Identifies and highlights deceptive UI elements, Analyzes policies against regulations (GDPR, CCPA, PIPEDA, LGPD), Provides AI-powered summaries of company privacy policies using Groq.
 
