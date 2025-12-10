@@ -21,14 +21,18 @@ An open-source Retrieval-Augmented Generation (RAG) system that ingests and proc
 **Tech Stack**: Python, LlamaIndex, Llama 3.1, Streamlit, Ollama, Hugging Face
 
 ---
+### [MarketMoves](https://github.com/Shakespeared101/MarketMoves) 🔎🛍️  
+A comprehensive data visualization and risk intelligence platform that combines financial data analysis, machine learning, and interactive visualizations to provide insights into market risks, anomalies, and corporate intelligence.
 
-### [Company Lens](https://github.com/Shakespeared101/company-lens) 📰🔊  
-A web-based application that extracts public sentiment from news articles about a company, performs sentiment analysis, and converts summaries to speech.
-
-**Tech Stack**: Python, NLP, BeautifulSoup, Streamlit, Hugging Face, TTS
+**Tech Stack**: FastAPI, React, SQLite+DuckDB, Neo4j, Ollama
 
 ---
+### [Fair Lens](https://github.com/Shakespeared101/FairLens) 🔎🛍️  
+A cross-browser extension designed to protect users from dark patterns and help them understand privacy policies. It provides three powerful features to enhance your online privacy and awareness.
 
+**Tech Stack**: JavaScript, Chrome Extensions API, Python, Flask, Transformers
+
+---
 ### [AirQ-Forecast-LNN](https://github.com/Shakespeared101/AirQ-Forecast-LNN) 🌍🔬  
 An air quality forecasting model leveraging Liquid Neural Networks (LNNs) and IoT-based real-time data collection.
 
@@ -50,10 +54,10 @@ A deep learning-based system for automatic transcript generation by mapping lip 
 
 ---
 
-### [Fair Lens](https://github.com/Shakespeared101/FairLens) 🔎🛍️  
-A cross-browser extension designed to protect users from dark patterns and help them understand privacy policies. It provides three powerful features to enhance your online privacy and awareness.
+### [Company Lens](https://github.com/Shakespeared101/company-lens) 📰🔊  
+A web-based application that extracts public sentiment from news articles about a company, performs sentiment analysis, and converts summaries to speech.
 
-**Tech Stack**: JavaScript, Chrome Extensions API, Python, Flask, Transformers
+**Tech Stack**: Python, NLP, BeautifulSoup, Streamlit, Hugging Face, TTS
 
 ---
 
