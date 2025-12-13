@@ -5,7 +5,7 @@
 I'm a Computer Science and Engineering student at Vellore Institute of Technology with a passion for AI, Machine Learning, and Data Science. I have experience in developing AI-powered applications, predictive modeling, and end-to-end software solutions. My work spans research, software engineering, and machine learning, with a strong focus on real-world applications.
 
 ### 🔍 About Me:
-- 🎓 **Education**: B.Tech in Computer Science and Engineering (VIT Chennai)
+- 🎓 **Education**: Currently pursuing my Masters in CompSci at Indiana University
 - 💡 **Interests**: AI/ML, Deep Learning, NLP, Data Engineering, Cybersecurity
 - 🛠️ **Skills**: Python, R, Java, C, C++, SQL, AWS, Snowflake, TensorFlow, OpenCV, Power BI
 - 🌱 **Learning**: Reinforcement Learning, AI Agents, Data Analytics
